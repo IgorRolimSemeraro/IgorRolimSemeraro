@@ -22,7 +22,3 @@
     <a href="https://twitter.com/Iguinhoo_25" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     <a href="https://discord.gg/PkKdXggfN4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </div>
-
-<div align="center">
-    ![snake gif](https://github.com/IgorRolimSemeraro/IgorRolimSemeraro/blob/output/github-contribution-grid-snake.svg)
-</div>
